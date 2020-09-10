@@ -1,4 +1,4 @@
-[![Header](./hero.png "Header")](https://dawchihliou.github.io/)
+[![Header](https://raw.githubusercontent.com/DawChihLiou/DawChihLiou/master/hero.png "Header")](https://dawchihliou.github.io/)
 
 ## Hey 👋
 

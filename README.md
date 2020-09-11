@@ -7,7 +7,7 @@ My name is Daw-Chih and I'm a software engineer!
 <a href="https://linkedin.com/in/dawchihliou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dawchihliou" height="20" width="20" /></a>
 <a href="https://medium.com/@dawchihliou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dawchihliou" height="20" width="20" /></a>
 
-👨‍💻 I've spent a good amount of time woking on Frontend engineering, mostly building features and taking care of architectures for client facing products and enterprise softwares.
+👨‍💻 I've spent a good amount of time woking on Frontend engineering, mostly building features and taking care of architectures for client facing products and enterprise software.
 
 💚 I enjoy building tooling around testing, documentation, and CI/CD to improve developer experience.
 

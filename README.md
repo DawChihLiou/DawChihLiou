@@ -46,7 +46,7 @@ My name is Daw-Chih and I'm a software engineer!
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
 
 
-### Latest blog posts
+### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [3 Principles to Triumph Your Software Project](https://medium.com/@dawchihliou/3-principles-to-triumph-your-software-project-38cc0951b64f?source=rss-c756e9b7bbf6------2)
 - [Writing Better Marble Tests for Redux Observable and TypeScript](https://itnext.io/better-marble-test-70c7676a1e2?source=rss-c756e9b7bbf6------2)

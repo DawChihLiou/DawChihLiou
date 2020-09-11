@@ -7,6 +7,15 @@ My name is Daw-Chih and I'm a software engineer!
 <a href="https://linkedin.com/in/dawchihliou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dawchihliou" height="20" width="20" /></a>
 <a href="https://medium.com/@dawchihliou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dawchihliou" height="20" width="20" /></a>
 
+👨‍💻 I've spent a good amount of time woking on Frontend engineering, mostly building features and taking care of architectures for client facing products and enterprise softwares.
+
+💚 I enjoy building tooling around testing, documentation, and CI/CD to improve developer experience.
+
+🎨 I'm a huge advocate for user experience design! I studied UX with my spare time and now [I'm certified by Nielsen Norman Group](https://www.linkedin.com/public-profile/in/dawchihliou)! They are one of the best user experience research organization in the world!
+
+✏️ I enjoy writing about software development. Especially the little things that can unf__k our daily work and hopefully give people aha moments.
+
+🌱 I'm learning Backend development with [Postgres](https://www.postgresql.org/) and [TypeORM](https://typeorm.io/)
 
 ### 🔧 Technologies I'm passionate about
 
@@ -18,16 +27,20 @@ My name is Daw-Chih and I'm a software engineer!
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=121212&color=764ABC)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=121212&color=339933)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&labelColor=121212&color=E10098)
+![](https://img.shields.io/badge/Code-TypeORM-informational?style=flat&logo=typeorm&logoColor=white&labelColor=121212&color=DD1100)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=121212&color=1572B6)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&labelColor=121212&color=CC6699)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=121212&color=E34F26)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=121212&color=8DD6F9)
 ![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=121212&color=F9DC3E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=121212&color=E34F26)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=121212&color=C21325)
 ![](https://img.shields.io/badge/Tool-Cypress-informational?style=flat&logo=cypress&logoColor=white&labelColor=121212&color=17202C)
 ![](https://img.shields.io/badge/Tool-Next.js-informational?style=flat&logo=next.js&logoColor=white&labelColor=121212&color=000000)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=121212&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=121212&color=2496ED)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&labelColor=121212&color=181717)
+![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&labelColor=121212&color=2088FF)
+![](https://img.shields.io/badge/Tools-Storybook-informational?style=flat&logo=storybook&logoColor=white&labelColor=121212&color=FF4785)
 ![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=sketch&logoColor=white&labelColor=121212&color=F7B500)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)

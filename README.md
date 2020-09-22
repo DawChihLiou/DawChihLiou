@@ -1,3 +1,5 @@
+<!-- reference: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
 [![Header](https://raw.githubusercontent.com/DawChihLiou/DawChihLiou/master/hero.png "Header")](https://dawchihliou.github.io/)
 
 ## Hey there 👋
@@ -19,6 +21,7 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 🔧 Technologies I'm passionate about
 
+<!-- use https://simpleicons.org/ to find icons and colors -->
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&labelColor=121212&color=007396)
@@ -44,7 +47,7 @@ My name is Daw-Chih and I'm a software engineer!
 ![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=sketch&logoColor=white&labelColor=121212&color=F7B500)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
-
+![](https://img.shields.io/badge/Cloud-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->

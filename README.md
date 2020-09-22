@@ -47,7 +47,7 @@ My name is Daw-Chih and I'm a software engineer!
 ![](https://img.shields.io/badge/Tools-Sketch-informational?style=flat&logo=sketch&logoColor=white&labelColor=121212&color=F7B500)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
-![](https://img.shields.io/badge/Cloud-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
+![](https://img.shields.io/badge/CDN-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->

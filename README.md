@@ -15,7 +15,7 @@ My name is Daw-Chih and I'm a software engineer!
 
 ✏️ I enjoy writing about software development. Especially the little things that can unf__k our daily work and hopefully give people aha moments.
 
-🌱 I'm learning Backend development with [Postgres](https://www.postgresql.org/) and [TypeORM](https://typeorm.io/). It's been fun!
+🌱 I'm currently learning [CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) and [Akamai EdgeWorkers](https://developer.akamai.com/akamai-edgeworkers-overview). It's been fun!
 
 ### 🔧 Technologies I'm passionate about
 

@@ -39,6 +39,7 @@ My name is Daw-Chih and I'm a software engineer!
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=121212&color=C21325)
 ![](https://img.shields.io/badge/Tool-Cypress-informational?style=flat&logo=cypress&logoColor=white&labelColor=121212&color=17202C)
 ![](https://img.shields.io/badge/Tool-Next.js-informational?style=flat&logo=next.js&logoColor=white&labelColor=121212&color=000000)
+![](https://img.shields.io/badge/Tool-Vercel-informational?style=flat&logo=vercel&logoColor=white&labelColor=121212&color=000000)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=121212&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=121212&color=2496ED)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&labelColor=121212&color=181717)

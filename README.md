@@ -37,7 +37,7 @@ My name is Daw-Chih and I'm a software engineer!
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&labelColor=121212&color=4FC08D)
 ![](https://img.shields.io/badge/Code-MDX-informational?style=flat&logo=mdx&logoColor=white&labelColor=121212&color=F29400)
 ![](https://img.shields.io/badge/Code-AuthO-informational?style=flat&logo=autho&logoColor=white&labelColor=121212&color=EB5424)
-![](https://img.shields.io/badge/Tool-SVG-informational?style=flat&logo=svg&logoColor=white&labelColor=121212&color=FFB13B)
+![](https://img.shields.io/badge/Code-SVG-informational?style=flat&logo=svg&logoColor=white&labelColor=121212&color=FFB13B)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=121212&color=8DD6F9)
 ![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=121212&color=F9DC3E)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=121212&color=C21325)

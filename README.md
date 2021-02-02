@@ -66,8 +66,8 @@ My name is Daw-Chih and I'm a software engineer!
 - [3 Principles to Triumph Your Software Project](https://medium.com/@dawchihliou/3-principles-to-triumph-your-software-project-38cc0951b64f?source=rss-c756e9b7bbf6------2)
 - [Writing Better Marble Tests for Redux Observable and TypeScript](https://itnext.io/better-marble-test-70c7676a1e2?source=rss-c756e9b7bbf6------2)
 - [Replacing react-redux’s connect with React Hooks!](https://medium.com/@dawchihliou/replacing-react-reduxs-connect-with-react-hooks-1c65e2a6909?source=rss-c756e9b7bbf6------2)
-- [Hey thanks for your question!](https://medium.com/@dawchihliou/hey-thanks-for-your-question-a2f9041d8a9?source=rss-c756e9b7bbf6------2)
 - [Testing React Hooks](https://medium.com/@dawchihliou/testing-react-hooks-6d3ae95cd838?source=rss-c756e9b7bbf6------2)
+- [Intuitive Transducer in JavaScript](https://medium.com/@dawchihliou/intuitive-transducer-in-javascript-f358d3fe53d?source=rss-c756e9b7bbf6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

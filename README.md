@@ -64,10 +64,9 @@ My name is Daw-Chih and I'm a software engineer!
 - [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/)
 - [Using WebP for Better User Experience](https://dawchihliou.github.io/articles/use-webp-for-better-ux)
 - [Hello World☀️](https://dawchihliou.github.io/articles/helloworld)
-- [3 Principles to Triumph Your Software Project](https://medium.com/@dawchihliou/3-principles-to-triumph-your-software-project-38cc0951b64f?source=rss-c756e9b7bbf6------2)
 - [3 Principles to Triumph Your Software Project](https://medium.com/@dawchihliou/3-principles-to-triumph-your-software-project-38cc0951b64f)
-- [Writing Better Marble Tests for Redux Observable and TypeScript](https://itnext.io/better-marble-test-70c7676a1e2?source=rss-c756e9b7bbf6------2)
 - [Writing Better Marble Tests for Redux Observable and TypeScript](https://itnext.io/better-marble-test-70c7676a1e2)
+- [Intuitive Transducer in JavaScript](https://medium.com/@dawchihliou/intuitive-transducer-in-javascript-f358d3fe53d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

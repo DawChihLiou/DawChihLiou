@@ -61,7 +61,7 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Your Own TypeScript CLI](https://dawchihliou.github.ioarticles/writing-your-own-typescript-cli)
+- [Writing Your Own TypeScript CLI](https://dawchihliou.github.io/articles/writing-your-own-typescript-cli)
 - [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/)
 - [Using WebP for Better User Experience](https://dawchihliou.github.io/articles/use-webp-for-better-ux)
 - [Hello World☀️](https://dawchihliou.github.io/articles/helloworld)

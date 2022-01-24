@@ -61,7 +61,7 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [From Frontend Developer to Principle Software Engineer](https://dawchihliou.github.io/articles/from-frontend-developer-to-principle-software-engineer)
+- [From Frontend Developer to Principal Software Engineer](https://dawchihliou.github.io/articles/from-frontend-developer-to-principal-software-engineer)
 - [Binary Tree Insertion in Rust](https://dawchihliou.github.io/articles/binary-tree-insertion-in-rust)
 - [Indexing Strings in Rust and TypeScript: A Case Study of String](https://dawchihliou.github.io/articles/indexing-strings-in-rust-and-typescript)
 - [Writing Your Own TypeScript CLI](https://dawchihliou.github.io/articles/writing-your-own-typescript-cli)

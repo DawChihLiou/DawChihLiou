@@ -13,7 +13,7 @@ My name is Daw-Chih and I'm a software engineer!
 
 💚 I enjoy building tooling around testing, documentation, and CI/CD to improve developer experience.
 
-🎨 I'm a huge advocate for user experience design! I studied UX with my spare time and now [I'm certified by Nielsen Norman Group](https://www.nngroup.com/)! They are one of the best user experience research organization in the world!
+🎨 I'm a huge advocate for user experience design! I studied UX and now [I'm certified by Nielsen Norman Group](https://www.nngroup.com/)! They are one of the best user experience research organization in the world!
 
 ✏️ I enjoy writing about software development. Especially the little things that can unf__k our daily work and hopefully give people aha moments.
 

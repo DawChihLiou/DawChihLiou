@@ -61,13 +61,13 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built A Snappy Static Full-text Search with WebAssembly, Rust, Next.js, and Xor Filters](https://dawchihliou.github.io/articles/i-built-a-snappy-full-text-search-with-webassembly-rust-nextjs-and-xor-filters)
 - [How to Plan A Project as A Principal Software Engineer: A Human-centered Approach](https://dawchihliou.github.io/articles/how-to-plan-a-project-as-a-principal-software-engineer)
 - [Building Better Next.js Static Sites with MDX and Contentlayer](https://dawchihliou.github.io/articles/build-better-nextjs-static-sites-with-mdx-and-contentlayer)
 - [From Frontend Developer to Principal Software Engineer](https://dawchihliou.github.io/articles/from-frontend-developer-to-principal-software-engineer)
 - [Binary Tree Insertion in Rust](https://dawchihliou.github.io/articles/binary-tree-insertion-in-rust)
 - [Indexing Strings in Rust and TypeScript: A Case Study of String](https://dawchihliou.github.io/articles/indexing-strings-in-rust-and-typescript)
 - [Writing Your Own TypeScript CLI](https://dawchihliou.github.io/articles/writing-your-own-typescript-cli)
-- [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

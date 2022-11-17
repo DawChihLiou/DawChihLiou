@@ -61,13 +61,13 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Easiest Way to Understand Rust Modules Across Multiple Files](https://dawchihliou.github.io/articles/easiest-way-to-understand-rust-modules-across-multiple-files)
 - [Ex-Principal Engineer&#39;s Guide to Design Thinking and Continuous Delivery](https://dawchihliou.github.io/articles/ex-principal-engineers-guide-to-design-thinking-and-continous-delivery)
 - [Building A Custom Google Maps Marker React Component Like Airbnb in Next.js](https://dawchihliou.github.io/articles/building-custom-google-maps-marker-react-component-like-airbnb-in-nextjs)
 - [Event Bus for React](https://dawchihliou.github.io/articles/event-bus-for-react)
 - [React Explained for Product Managers](https://www.departmentofproduct.com/blog/react-explained-for-product-managers/)
 - [Stress Testing Concurrent Features in React 18: A Case Study of startTransition &amp; 3D Rendering](https://dawchihliou.github.io/articles/stress-testing-concurrent-features-in-react-18)
 - [I Built A Snappy Static Full-text Search with WebAssembly, Rust, Next.js, and Xor Filters](https://dawchihliou.github.io/articles/i-built-a-snappy-full-text-search-with-webassembly-rust-nextjs-and-xor-filters)
-- [How to Plan A Project as A Principal Software Engineer: A Human-centered Approach](https://dawchihliou.github.io/articles/how-to-plan-a-project-as-a-principal-software-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

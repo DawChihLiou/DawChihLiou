@@ -61,13 +61,13 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lean Docker Images for Next.JS](https://dawchihliou.github.io/articles/lean-docker-images-for-nextjs)
 - [Is Qwik Faster than React Server Component?](https://dawchihliou.github.io/articles/is-qwik-faster-than-react-server-component)
 - [Tired of Slow Code Reviews? Read this](https://dawchihliou.github.io/articles/tired-of-slow-code-reviews)
 - [Deploying Like Vercel and Netlify with Cloud Run: Live, Preview, and Modern Workflow](https://dawchihliou.github.io/articles/deploying-with-cloud-run-like-vercel-and-netlify)
 - [Easiest Way to Understand Rust Modules Across Multiple Files](https://dawchihliou.github.io/articles/easiest-way-to-understand-rust-modules-across-multiple-files)
 - [Ex-Principal Engineer&#39;s Guide to Design Thinking and Continuous Delivery](https://dawchihliou.github.io/articles/ex-principal-engineers-guide-to-design-thinking-and-continous-delivery)
 - [Building A Custom Google Maps Marker React Component Like Airbnb in Next.js](https://dawchihliou.github.io/articles/building-custom-google-maps-marker-react-component-like-airbnb-in-nextjs)
-- [Event Bus for React](https://dawchihliou.github.io/articles/event-bus-for-react)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

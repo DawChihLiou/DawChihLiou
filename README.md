@@ -61,13 +61,13 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Last Dockerfile You Need for NestJS](https://dawchihliou.github.io/articles/the-last-dockerfile-you-need-for-nestjs)
 - [Optimize Google Cloud BigQuery and Control Cost](https://dawchihliou.github.io/articles/optimize-google-cloud-bigquery-and-control-cost)
 - [How to Run A Tech Community in Your Company: An Ex-Principal Engineer’s Guide](https://dawchihliou.github.io/articles/how-to-run-a-tech-community-in-your-company)
 - [WASM Semantic Search in Rust](https://dawchihliou.github.io/articles/wasm-semantic-search-in-rust)
 - [Lean Docker Images for Next.JS](https://dawchihliou.github.io/articles/lean-docker-images-for-nextjs)
 - [Is Qwik Faster than React Server Component?](https://dawchihliou.github.io/articles/is-qwik-faster-than-react-server-component)
 - [Tired of Slow Code Reviews? Read this](https://dawchihliou.github.io/articles/tired-of-slow-code-reviews)
-- [Deploying Like Vercel and Netlify with Cloud Run: Live, Preview, and Modern Workflow](https://dawchihliou.github.io/articles/deploying-with-cloud-run-like-vercel-and-netlify)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

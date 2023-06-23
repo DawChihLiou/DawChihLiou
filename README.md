@@ -61,13 +61,13 @@ My name is Daw-Chih and I'm a software engineer!
 
 ### 📖 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing With Fixtures in Rust](https://dawchihliou.github.io/articles/testing-with-fixtures-in-rust)
 - [Share Rust Types With TypeScript for WebAssembly in 30 Seconds](https://dawchihliou.github.io/articles/share-rust-types-with-typescript-for-webassembly-in-30-seconds)
 - [The Last Dockerfile You Need for NestJS](https://dawchihliou.github.io/articles/the-last-dockerfile-you-need-for-nestjs)
 - [Optimize Google Cloud BigQuery and Control Cost](https://dawchihliou.github.io/articles/optimize-google-cloud-bigquery-and-control-cost)
 - [How to Run A Tech Community in Your Company: An Ex-Principal Engineer’s Guide](https://dawchihliou.github.io/articles/how-to-run-a-tech-community-in-your-company)
 - [WASM Semantic Search in Rust](https://dawchihliou.github.io/articles/wasm-semantic-search-in-rust)
 - [Lean Docker Images for Next.JS](https://dawchihliou.github.io/articles/lean-docker-images-for-nextjs)
-- [Is Qwik Faster than React Server Component?](https://dawchihliou.github.io/articles/is-qwik-faster-than-react-server-component)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🕵️‍ Some more stats on GitHub

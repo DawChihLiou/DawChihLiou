@@ -17,7 +17,7 @@ My name is Daw-Chih and I'm a software engineer!
 
 ✏️ I enjoy writing about software development. Especially the little things that can unf__k our daily work and hopefully give people aha moments.
 
-🌱 I'm currently learning GraphQL. It's been fun!
+🌱 I'm currently learning AI engineering. It's been fun!
 
 ### 🔧 Technologies I'm passionate about
 
